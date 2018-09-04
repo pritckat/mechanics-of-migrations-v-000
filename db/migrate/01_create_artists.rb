@@ -6,4 +6,7 @@ class CreateArtists < ActiveRecord::Migration
   def down
   end
 
+  def change
+  end
+
 end
